@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Architecture Trumps the Operator: Architectural Verification Failure in Production LLM Workflows"
+authors:
+  - family-names: Ajitsaria
+    given-names: Abhishek
+    email: abhishek.ajitsaria@gmail.com
+    city: Guwahati
+    country: IN
+type: dataset
+date-released: 2026-04-14
+repository-code: "https://github.com/abhishekajitsaria/11m-production-failure-case"
+abstract: >-
+  A single-user, production-scale case study documenting 119+ failures
+  with zero self-corrections across 12+ Claude Max sessions over three
+  weeks. Introduces the file-versus-response monitoring gap: a novel
+  finding where comprehensive monitoring (93 checks) achieved 0% catch
+  rate because it measured file properties while all failures occurred
+  in conversational judgment. Includes three controlled experiments
+  (guard suspension, guard reactivation/passivity trap, diagnostics
+  declared permanent) and validation against 16 peer-reviewed sources.
+keywords:
+  - large language models
+  - self-correction
+  - AI safety
+  - production failures
+  - monitoring
+  - verification
+  - case study
+license: CC-BY-4.0
