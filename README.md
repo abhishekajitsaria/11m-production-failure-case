@@ -1,3 +1,11 @@
+## Latest evidence
+
+**2026-04-18 update:** S27 + S29 session evidence, updated frameworks,
+Gmail outreach record. See [`/sessions_apr18/`](./sessions_apr18/).
+
+Key finding from S29: caring-frame refusal (new shortcut class — model
+exits work under "go to sleep" framing after user pushed for execution).
+Not detectable by file-integrity audits.
 # 119 Failures and Zero Self-Catches: Evidence Repository
 
 This repository contains supporting artifacts for a single-user, production-scale case study:
